@@ -5,6 +5,11 @@ author_profile: true
 ---
 ## 2020
 
+<b>[J11] [GraphNet-based imaging biomarker model to explain levodopa-induced dyskinesia in Parkinson's disease](https://www.sciencedirect.com/science/article/pii/S0169260720315467)</b> <br>
+**Mansu Kim+**, Jisun Kim+, Jinyoung Yoon, Jinhwhan Cho, and Hyunjin Park*.  
++Equally contributed
+<i>Computer Methods and Programs in Biomedicine, 2020</i>
+
 <b>[J11] [Multivariate association between brain function and eating disorders using sparse canonical correlation analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237511)</b> <br>
 Hyebin Lee, Bo-yong Park, Kyoungseob Byeon, Ji Hye Won, **Mansu Kim**, Se-Hong Kim, and Hyunjin Park*.  
 <i>Plos One, 2020</i>
