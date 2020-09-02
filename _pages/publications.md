@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2020
 
-<b>[J11] [GraphNet-based imaging biomarker model to explain levodopa-induced dyskinesia in Parkinson's disease](https://www.sciencedirect.com/science/article/pii/S0169260720315467)</b> <br>
+<b>[J12] [GraphNet-based imaging biomarker model to explain levodopa-induced dyskinesia in Parkinson's disease](https://www.sciencedirect.com/science/article/pii/S0169260720315467)</b> <br>
 **Mansu Kim+**, Jisun Kim+, Jinyoung Yoon, Jinhwhan Cho, and Hyunjin Park*.  
 +Equally contributed <br>
 <i>Computer Methods and Programs in Biomedicine, 2020</i>
