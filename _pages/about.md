@@ -10,9 +10,11 @@ redirect_from:
 
 About me
 ======
-I am a Postdoctoral Researcher in the Department of biostatistics, epidemiology, and informatics (DBEI) at the University of Pennsylvania. I am working on imaging genetics, in terms of methodological approaches (e.g., joint modeling, machine learning modeling), with [Prof. Li Shen](https://www.med.upenn.edu/shenlab/).  
+I am a Postdoctoral Researcher in the Department of biostatistics, epidemiology, and informatics (DBEI) at the University of Pennsylvania. My research interest lies in integrating meaningful knowlege from multi-modal biomedical data, such as SNPs, DNA, RNA, tissue, and brain images. Also, I am interested in developing artifical intelligence models based on the graph space. Currently, I am working on imaging genetics, in terms of methodological approaches (e.g., joint modeling, machine learning modeling), with [Prof. Li Shen](https://www.med.upenn.edu/shenlab/).  
 
-Before joining UPENN, I completed my Ph.D. in Electronic and Electrical Engineering at Sungkyunkwan University under the supervision of [Prof. Hyunjin Park](https://mipskku.wixsite.com/mipl))
+Before joining Upenn, I completed my Ph.D. in Electronic and Electrical Engineering at Sungkyunkwan University under the supervision of [Prof. Hyunjin Park](https://mipskku.wixsite.com/mipl)), M.S degree in Human ICT convergence from Sungkyunkwan University under upervision of Prof. Hyunjin Park and Prof. Jungdong Cho, and B.S degree in Electrical Engineering from KwangWoon University in 2014.
+
+Application: Imaging genetics association/integration analysis; Sparse modeling; Feature extraction; Bio-medical image processing; Application for machine learning approach; Bioinformatics; Interpretable deep neural network;
 
 News
 ======
