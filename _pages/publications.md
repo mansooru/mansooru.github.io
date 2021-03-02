@@ -5,6 +5,10 @@ author_profile: true
 ---
 ## 2020
 
+<b>[J13] [A structural enriched functional network: an application to predict brain cognitive performance]</b> <br>
+**Mansu Kim**, Jingxuan Bao, Kefei Liu, Hyunjin Park, Jae Young Baik, and Li Shen*. <br> 
+<i>Medical Image Analysis, 2021 (in press)</i>
+
 <b>[J12] [GraphNet-based imaging biomarker model to explain levodopa-induced dyskinesia in Parkinson's disease](https://www.sciencedirect.com/science/article/pii/S0169260720315467)</b> <br>
 **Mansu Kim+**, Jisun Kim+, Jinyoung Yoon, Jinhwhan Cho, and Hyunjin Park*.  
 +Equally contributed <br>
