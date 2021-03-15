@@ -20,7 +20,7 @@ author_profile: true
 Jingxuan Bao, **Mansu Kim**, Xiaohui Yao, Trang Le, Patryk Orzechowski, Jingwen Yan, Andrew J Saykin, Jason H Moore, and Li Shen* <br>
 <i>Organization for Human Brain Mapping Ann Meeting, 2021</i>
 
-<b>[J13] [A structural enriched functional network: an application to predict brain cognitive performance]</b> <br>
+<b>[J13] [A structural enriched functional network: an application to predict brain cognitive performance](https://www.sciencedirect.com/science/article/pii/S1361841521000724)</b> <br>
 **Mansu Kim**, Jingxuan Bao, Kefei Liu, Hyunjin Park, Jae Young Baik, and Li Shen*. <br> 
 <i>Medical Image Analysis, 2021 (in press)</i>
 
