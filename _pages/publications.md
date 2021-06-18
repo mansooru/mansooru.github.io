@@ -8,8 +8,29 @@ author_profile: true
 
 ## 2021
 
+<b>[C9] Identifying Alzheimer’s Genes via Brain Transcriptome Mapping </b> <br>
+Jae Young Baik+, **Mansu Kim+**, Jingxuan Bao, Qi Long, and Li Shen* 
++Equally contributed <br>
+<i>International Conference on Intelligent Biology and Medicine (ICIBM 2021), 2021</i>
+
+<b>[C8] Deep Multiview Learning to Identify Imaging-driven Subtypes in Mild Cognitive Impairment </b> <br>
+Yixue Feng, **Mansu Kim**, Xiaohui Yao, Kefei Liu, Qi Long, and Li Shen* <br>
+<i>International Conference on Intelligent Biology and Medicine (ICIBM 2021), 2021</i>
+
+<b>[C7] A novel Bayesian semi-parametric model for learning heritable imaging traits. </b> <br>
+Yize Zhao, Xiwen Zhao, **Mansu Kim**, Jingxuan Bao, and Li Shen* <br>
+<i>MICCAI’21: Med Image Comput Comput Assist Interv, 2021</i>
+
+<b>[A18] Identifying Multimodal Imaging-Driven Subtypes in Mild Cognitive Impairment using Deep Multiview Learning. </b> <br>
+Yixue Fang, **Mansu Kim**, Kefei Liu, Andrew J. Saykin, Jason H. Moore, Qi long, and Li Shen* <br>
+<i>AAIC'21: Alzheimer's Association Int. Conf. on Alzheimer's Disease, 2021</i>
+
+<b>[A17] Identifying imaging genetics biomarkers in Alzheimer’s disease via integrating graph convolutional neural network and canonical correlation analysis. </b> <br>
+**Mansu Kim**, Xiaohui Yao, Andrew J. Saykin, Jason H. Moore, Qi Long, Dokyoon Kim, and Li Shen* <br>
+<i>AAIC'21: Alzheimer's Association Int. Conf. on Alzheimer's Disease, 2021</i>
+
 <b>[A16] Linking genetics to Alzheimer’s disease via human brain mapping </b> <br>
-**Mansu Kim**, Ruiming Wu, Xiaohui Yao, Andrew J. Saykin, Jason H. Moore, and Li Shen.* <br>
+**Mansu Kim**, Ruiming Wu, Xiaohui Yao, Andrew J. Saykin, Jason H. Moore, and Li Shen* <br>
 <i>Organization for Human Brain Mapping Ann Meeting, 2021</i>
 
 <b>[A15] Detecting imaging biomarkers for Alzheimer’s disease via interpretable graph convolutional network. </b> <br>
@@ -21,22 +42,22 @@ Jingxuan Bao, **Mansu Kim**, Xiaohui Yao, Trang Le, Patryk Orzechowski, Jingwen 
 <i>Organization for Human Brain Mapping Ann Meeting, 2021</i>
 
 <b>[J13] [A structural enriched functional network: an application to predict brain cognitive performance](https://www.sciencedirect.com/science/article/pii/S1361841521000724)</b> <br>
-**Mansu Kim**, Jingxuan Bao, Kefei Liu, Hyunjin Park, Jae Young Baik, and Li Shen*. <br> 
+**Mansu Kim**, Jingxuan Bao, Kefei Liu, Hyunjin Park, Jae Young Baik, and Li Shen* <br> 
 <i>Medical Image Analysis, 2021 (in press)</i>
 
 ## 2020
 
 <b>[J12] [GraphNet-based imaging biomarker model to explain levodopa-induced dyskinesia in Parkinson's disease](https://www.sciencedirect.com/science/article/pii/S0169260720315467)</b> <br>
-**Mansu Kim+**, Jisun Kim+, Jinyoung Yoon, Jinhwhan Cho, and Hyunjin Park*.  
+**Mansu Kim+**, Jisun Kim+, Jinyoung Yoon, Jinhwhan Cho, and Hyunjin Park*  
 +Equally contributed <br>
 <i>Computer Methods and Programs in Biomedicine, 2020</i>
 
 <b>[J11] [Multivariate association between brain function and eating disorders using sparse canonical correlation analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237511)</b> <br>
-Hyebin Lee, Bo-yong Park, Kyoungseob Byeon, Ji Hye Won, **Mansu Kim**, Se-Hong Kim, and Hyunjin Park*.  
+Hyebin Lee, Bo-yong Park, Kyoungseob Byeon, Ji Hye Won, **Mansu Kim**, Se-Hong Kim, and Hyunjin Park*  
 <i>Plos One, 2020</i>
 
 <b>[J10] [Prediction of age at onset in Parkinson’s disease using objective specific neuroimaging genetics based on a sparse canonical correlation analysis](https://www.nature.com/articles/s41598-020-68301-x)</b> <br>
-Ji Hye Won, **Mansu Kim**, Jinyoung Youn*, and Hyunjin Park*.  
+Ji Hye Won, **Mansu Kim**, Jinyoung Youn*, and Hyunjin Park*  
 <i>Scientific Reports, 2020</i>
 
 <b>[C6] Deep Multiview Learning for Population Subtyping with Multimodal Imaging</b> <br>
@@ -75,7 +96,7 @@ Ji Hye Won, **Mansu Kim**, Jinyoung Yoon, and Hyunjin Park*
 <i>Metadata and Semantic Research, 2019</i>
 
 <b>[J9] [Joint-connectivity-based sparse canonical correlation analysis of imaging genetics for detecting biomarkers of Parkinson’s disease](https://ieeexplore.ieee.org/abstract/document/8721716)</b> <br>
-**Mansu Kim**, Ji Hye Won, Jinyoung Yoon, and Hyunjin Park*.  
+**Mansu Kim**, Ji Hye Won, Jinyoung Yoon, and Hyunjin Park*  
 <i>IEEE Transactions on Medical Imaging (MI), 2019.</i>
 
 <b>[J8] [Effectiveness of imaging genetics analysis to explain degree of depression in Parkinson’s disease](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211699)</b> <br>
@@ -119,7 +140,7 @@ Seung-Hak Lee, Seong-jin Son, **Mansu Kim**, and Hyunjin Park*
 ## 2016
 
 <b>[J5] [Imaging analysis of Parkinson's disease patients using SPECT and tractography](https://www.nature.com/articles/srep38070)</b> <br>
-Seong-jin Son, **Mansu Kim**, and Hyunjin Park*.  
+Seong-jin Son, **Mansu Kim**, and Hyunjin Park*  
 <i>Scientific Reports, 2016.</i>
 
 <b>[J4] [Structural connectivity profile of scans without evidence of dopaminergic deficit (SWEDD) patients compared to normal controls and Parkinson's disease patients](https://springerplus.springeropen.com/articles/10.1186/s40064-016-3110-8)</b> <br>
