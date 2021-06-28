@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## 2021
+<b>[J13] [Inter-individual body mass variations relate to fractionated functional brain hierarchies](https://www.nature.com/articles/s42003-021-02268-x)</b> <br>
+**Mansu Kim**, Jingxuan Bao, Kefei Liu, Hyunjin Park, Jae Young Baik, and Li Shen* <br> 
+<i>Medical Image Analysis, 2021</i
+
 <b>[C10] Identifying genetic markers enriched by brain imaging endophenotypes in Alzheimer's disease </b> <br>
 **Mansu Kim**, Ruiming Wu, Xiaohui Yao, Andrew J. Saykin, Jason H. Moore, Li Shen*, and for the ADNI. 
 +Equally contributed <br>
@@ -47,7 +51,7 @@ Jingxuan Bao, **Mansu Kim**, Xiaohui Yao, Trang Le, Patryk Orzechowski, Jingwen 
 
 <b>[J13] [A structural enriched functional network: an application to predict brain cognitive performance](https://www.sciencedirect.com/science/article/pii/S1361841521000724)</b> <br>
 **Mansu Kim**, Jingxuan Bao, Kefei Liu, Hyunjin Park, Jae Young Baik, and Li Shen* <br> 
-<i>Medical Image Analysis, 2021 (in press)</i>
+<i>Medical Image Analysis, 2021</i>
 
 ## 2020
 
