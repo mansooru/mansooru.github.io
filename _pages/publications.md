@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## 2021
-<b>[J13] [Inter-individual body mass variations relate to fractionated functional brain hierarchies](https://www.nature.com/articles/s42003-021-02268-x)</b> <br>
+<b>[J14] [Inter-individual body mass variations relate to fractionated functional brain hierarchies](https://www.nature.com/articles/s42003-021-02268-x)</b> <br>
 **Mansu Kim**, Jingxuan Bao, Kefei Liu, Hyunjin Park, Jae Young Baik, and Li Shen* <br> 
 <i>Medical Image Analysis, 2021</i
 
