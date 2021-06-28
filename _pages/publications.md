@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## 2021
+<b>[C10] Identifying genetic markers enriched by brain imaging endophenotypes in Alzheimer's disease </b> <br>
+**Mansu Kim**, Ruiming Wu, Xiaohui Yao, Andrew J. Saykin, Jason H. Moore, Li Shen*, and for the ADNI. 
++Equally contributed <br>
+<i>International Conference on Intelligent Biology and Medicine (ICIBM 2021), 2021</i>
 
 <b>[C9] Identifying Alzheimer’s Genes via Brain Transcriptome Mapping </b> <br>
 Jae Young Baik+, **Mansu Kim+**, Jingxuan Bao, Qi Long, and Li Shen* 
