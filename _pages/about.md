@@ -20,6 +20,7 @@ Applications: Imaging genetics association/integration analysis; Sparse modeling
 
 News
 ======
+* (March 4th, 2021) A manuscript, titled "A structural enriched functional network: An application to predict brain cognitive performance", was accepted to [Medical Image Analysis](https://doi.org/10.1016/j.media.2021.102026).
 * (May 20th, 2020) I received "Principal investigator of Postdoctoral Fellowship Program(Nurturing Next-generation Researchers)" supported by [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index) (Total funding: 40K USD)
 * (Jan 6th, 2020) A paper, titled "Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease", was accepted to IEEE ISBI 2020. (Travel Awards)
 * (Oct 1st, 2019) I joined at the [Shen Lab](https://www.med.upenn.edu/shenlab/) at the University of Pennsylvania as a Postdoctoral Researcher.
