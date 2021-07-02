@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am currently a Postdoctoral Researcher in the Department of biostatistics, epidemiology, and informatics (DBEI) at the University of Pennsylvania and will joining assistant professor in Department of Artifical intelligence at the Catholic university of Korea. 
+I am currently a Postdoctoral Researcher in the Department of biostatistics, epidemiology, and informatics (DBEI) at the University of Pennsylvania and will joining assistant professor in Department of Artificial intelligence at the Catholic university of Korea. 
 
 My research interest lies in integrating meaningful knowledge from multi-modal biomedical data, such as multi-omics (e.g., SNPs, DNA, RNA, and tissue) and multi-model imaging (e.g., MRI, SPECT, and PET)  data. The central theme of my research is developing imaging genetics association or integration algorithm, including machine learning and artificial intelligence models, using prior network knowledge, like gene-gene interaction network, brain connectivity or data-driven bi-clusters, with applications to various complex disorders.  Currently, I am working on imaging genetics, in terms of methodological approaches (e.g., joint modeling, machine learning modeling), with [Prof. Li Shen](https://www.med.upenn.edu/shenlab/). 
 
@@ -22,6 +22,7 @@ Applications: Imaging genetics association/integration analysis; Sparse modeling
 
 News
 ======
+* (September, 2021) I will join the Catholic University of Korea as an Assistant Professor in the Department of Artificial Intilligence starting September 2021.
 * (March 4th, 2021) A manuscript, titled "A structural enriched functional network: An application to predict brain cognitive performance", was accepted to [Medical Image Analysis](https://doi.org/10.1016/j.media.2021.102026).
 * (May 20th, 2020) I received "Principal investigator of Postdoctoral Fellowship Program(Nurturing Next-generation Researchers)" supported by [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index) (Total funding: 40K USD)
 * (Jan 6th, 2020) A paper, titled "Deep network-based feature selection for imaging genetics: Application to identifying biomarkers for Parkinson's disease", was accepted to IEEE ISBI 2020. (Travel Awards)
