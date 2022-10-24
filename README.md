@@ -1,1 +1,0 @@
-# mansooru.github.io
